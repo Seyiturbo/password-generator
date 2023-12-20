@@ -1,0 +1,8 @@
+/* Header */
+h1 {
+    color: rgb(196, 223, 223);
+    background-color: brown;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+}
