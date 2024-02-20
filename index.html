@@ -23,6 +23,43 @@
             placeholder="Your Secure Password"
             aria-label="Generated Password"
           ></textarea>
+          <!-- add input fields to collect user preferences -->
+          <h3>Please choose your password preferences below</h3>
+          <label for="length">Password Length (8-128):</label>
+          <input type="number" id="length" name="length" min="8" max="128" required>
+
+          <div id="char-type">
+            <label>Character Types:</label>
+            <div>
+              <input type="checkbox" id="lowercase" name="lowercase" value="lowercase">
+              <label for="lowercase">Lowercase</label>
+            </div>
+
+            <div>
+              <input type="checkbox" id="uppercase" name="uppercase" value="uppercase">
+              <label for="uppercase">Uppercase</label>
+            </div>
+
+            <div>
+              <input type="checkbox" id="numeric" name="numeric" value="numeric">
+              <label for="numeric">Numeric</label>
+            </div>
+
+            <div>
+              <input type="checkbox" id="special" name="special" value="special">
+              <label for="special">Special Characters ($@%&*, etc)</label>
+            </div>
+          </div>
+        </div>
+        <div class="card-footer">
+          <button id="generate" class="btn">Generate Password</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
         <div class="options">
           <div> class="option"
           <label for="length">Length (minimum of 8 and maximum of 128) </label>
