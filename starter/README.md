@@ -19,11 +19,11 @@ Engaging in this challenge proved to be a gratifying experience as it deepened m
 
  Visit this page in your web browser.[this page] Click on the red "Generate Password" button and proceed through the prompts. Once all prompts have been addressed, a password will be generated,  
 md
-    ![Screenshot 1](./assets/Screenshot%202023-12-04%20210624.png)
+    ![Screenshot 1](./images/01.png)
     md
-    ![Screenshot 2](./assets/Screenshot%202023-12-04%20210651.png)
+    ![Screenshot 2](./images/02.png)
     md
-    ![Screenshot 3](./assets/Screenshot%202023-12-04%20210747.png)
+    ![Screenshot 3](./images/03.png)
 
 
 ## Credits
