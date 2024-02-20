@@ -21,10 +21,10 @@ Engaging in this challenge proved to be a gratifying experience as it deepened m
 
     
 ![Screenshot 1](./images/01.png)
-    md
-    ![Screenshot 2](./images/02.png)
-    md
-    ![Screenshot 3](./images/03.png)
+    
+![Screenshot 2](./images/02.png)
+    
+![Screenshot 3](./images/03.png)
 
 
 ## Credits
