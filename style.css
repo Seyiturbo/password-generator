@@ -54,15 +54,29 @@ header {
   min-height: 100px;
 }
 
+.card-body h3 {
+  margin-bottom: 10px;
+}
+
+#char-type {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+ 
+#length {
+  padding: 4px 10px;
+  padding-right: 4px;
+}  
+
 .card-footer {
   text-align: center;
 }
-
+  
 .card-footer::before {
   content: " ";
   display: block;
   width: 100%;
-  background: #f5f2f2;
+  background: #e7e9eb;
   height: 2px;
 }
 
@@ -74,11 +88,11 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(0, 11%, 35%);
+  background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
-  box-shadow: rgba(55, 1, 1, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
-  color: hsl(0, 71%, 3%);
+  color: hsl(0, 0%, 100%);
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
@@ -88,8 +102,14 @@ header {
   cursor: pointer;
 }
 
+button[disabled] {
+  cursor: default;
+  background: #c0c7cf;
+}
 
-
+.float-right {
+  float: right;
+}
 
 #password {
   -webkit-appearance: none;
@@ -106,19 +126,30 @@ header {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #15000b;
+  border: 2px dashed #c0c7cf;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
 }
 
-@media (max-width: 690px) {}
+#password:focus-visible {
+  outline: none;
+}
+
+@media (max-width: 690px) {
   .btn {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
     padding: 10px 15px;
   }
 
-  
+  #password {
+    font-size: 1rem;
+  }
+}
 
-
+@media (max-width: 500px) {
+  .btn {
+    font-size: 0.8rem;
+  }
+}
