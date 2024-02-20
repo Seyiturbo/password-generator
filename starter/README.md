@@ -17,7 +17,7 @@ Engaging in this challenge proved to be a gratifying experience as it deepened m
 
 ## Utilization
 
- Visit this page in your web browser.[this page] Click on the red "Generate Password" button and proceed through the prompts. Once all prompts have been addressed, a password will be generated. 
+ Visit this page in your web browser.[this page] Click on the red "Generate Password" button and proceed through the prompts. Once all prompts have been applied, a password will be generated. 
 
     
 ![Screenshot 1](./images/01.png)
