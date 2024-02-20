@@ -17,9 +17,10 @@ Engaging in this challenge proved to be a gratifying experience as it deepened m
 
 ## Utilization
 
- Visit this page in your web browser.[this page] Click on the red "Generate Password" button and proceed through the prompts. Once all prompts have been addressed, a password will be generated,  
-md
-    ![Screenshot 1](./images/01.png)
+ Visit this page in your web browser.[this page] Click on the red "Generate Password" button and proceed through the prompts. Once all prompts have been addressed, a password will be generated. 
+
+    
+![Screenshot 1](./images/01.png)
     md
     ![Screenshot 2](./images/02.png)
     md
@@ -28,20 +29,17 @@ md
 
 ## Credits
 
-I read the following documentation to help me complete this challenge: 
+I turned to the provided documentation to support me in meeting the requirements of this challenge.
 
 [Read Me Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 [assignments](https://www.w3schools.com/js/js_assignment.asp)
 
-[loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement/)
-
-[Math.round()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round)
-
 [functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
-[return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+[loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement/)
 
-[isNaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+
+
